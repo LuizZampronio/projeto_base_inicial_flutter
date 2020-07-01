@@ -7,4 +7,4 @@ Como utilizar:
 - Execute o arquivo 'Flutter_base_folder.py';
 - O Prompt de comando iniciará pedindo para o usuário digitar o nome da pasta raiz. (Ex: Desenvolvimento_apps_flutter);
 - Em seguida, insira o nome do projeto específico. (Ex: Meu_primeiro_projeto_flutter);
-- o Projeto será criado em seguida e será aberto no VSCode.
+- A pasta do seu projeto será criado em seguida e será aberto no VSCode.
